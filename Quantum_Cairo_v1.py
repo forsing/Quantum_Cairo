@@ -91,9 +91,9 @@ VERSION = "QUANTUM_CAIRO_V1_20261030"
 
 
 FILES = (
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4710_k86.csv"),
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4710_k86_loto_2977.csv"),
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4710_k86_loto_plus_1733.csv"),
+    Path("/data/loto7_4710_k86.csv"),
+    Path("/data/loto7_4710_k86_loto_2977.csv"),
+    Path("/data/loto7_4710_k86_loto_plus_1733.csv"),
 )
 
 
@@ -3660,9 +3660,9 @@ Rezultat nije menjan radi uklanjanja dijagnostickog obrasca.
 
 ======================================================================
 ZAVRSNI NEXT REZULTATI
-loto7_4710_k86.csv | NEXT: 2 3 22 26 30 35 36 | skala: 1.50 | test NLL: 17.049586846
-loto7_4710_k86_loto_2977.csv | NEXT: 10 12 32 33 34 36 38 | skala: 1.50 | test NLL: 17.134590201
-loto7_4710_k86_loto_plus_1733.csv | NEXT: 25 27 31 32 33 34 37 | skala: 0.75 | test NLL: 17.175103461
+loto7_4710_k86.csv | NEXT: 2 x 22 y 30 z 36 | skala: 1.50 | test NLL: 17.049586846
+loto7_4710_k86_loto_2977.csv | NEXT: 10 x 32 y 34 z 38 | skala: 1.50 | test NLL: 17.134590201
+loto7_4710_k86_loto_plus_1733.csv | NEXT: 25 x 31 y 33 z 37 | skala: 0.75 | test NLL: 17.175103461
 """
 
 
